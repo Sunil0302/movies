@@ -1,0 +1,21 @@
+movie_id,title,genre,release_year,imdb_rating,duration_min,platform,country,budget_million,box_office_million
+1,Inception,Sci-Fi,2010,8.8,148,Netflix,USA,160,829
+2,KGF Chapter 2,Action,2022,8.4,168,Amazon Prime,India,14,1230
+3,Money Heist: The Movie,Thriller,2021,7.9,131,Netflix,Spain,25,210
+4,Pathaan,Action,2023,6.9,146,Amazon Prime,India,30,1050
+5,Interstellar,Sci-Fi,2014,8.6,169,Netflix,USA,165,677
+6,The Dark Knight,Action,2008,9,152,Netflix,USA,185,1006
+7,Bajrangi Bhaijaan,Drama,2015,8,159,Hotstar,India,15,969
+8,Joker,Drama,2019,8.4,122,Netflix,USA,55,1074
+9,Bahubali 2: The Conclusion,Action,2017,8.2,171,Netflix,India,25,1810
+10,Avengers Endgame,Sci-Fi,2019,8.4,181,Disney+,USA,356,2797
+11,Dangal,Biography,2016,8.3,161,Netflix,India,9,2024
+12,Kantara,Thriller,2022,8,148,Amazon Prime,India,2,400
+13,The Matrix,Sci-Fi,1999,8.7,136,Netflix,USA,63,467
+14,Drishyam 2,Thriller,2022,8.4,140,Amazon Prime,India,5,345
+15,RRR,Action,2022,7.9,187,Netflix,India,45,1250
+16,Tenet,Sci-Fi,2020,7.3,150,Netflix,USA,200,363
+17,The Shawshank Redemption,Drama,1994,9.3,142,Netflix,USA,25,73
+18,3 Idiots,Comedy,2009,8.4,170,Netflix,India,8,460
+19,Squid Game: The Movie,Thriller,2023,7.8,129,Netflix,South Korea,21,180
+20,Pushpa: The Rise,Action,2021,7.6,179,Amazon Prime,India,4,365
